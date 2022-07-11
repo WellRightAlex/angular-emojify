@@ -1,6 +1,6 @@
 {
   "name": "angular-emojify",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Angular Pipe that replaces all :emoji: with the actual emoji",
   "main": "./build/bundles/emojify.umd.js",
   "module": "./build/index.js",
