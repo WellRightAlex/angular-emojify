@@ -5,7 +5,7 @@ export default {
   moduleName: 'ng.emojify',
   onwarn,
   globals: {
-    '@angular/core': 'ng.core'
+    '@angular/core': 'ng.core',
   }
 };
 
