@@ -1,5 +1,5 @@
 {
-  "name": "angular-emojify",
+  "name": "@WellRightAlex/angular-emojify",
   "version": "2.0.0",
   "description": "Angular Pipe that replaces all :emoji: with the actual emoji",
   "main": "./build/bundles/emojify.umd.js",
@@ -9,12 +9,15 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamilkisiela/angular-emojify.git"
+    "url": "git+https://github.com/WellRightAlex/angular-emojify.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/WellRightAlex"
   },
   "bugs": {
-    "url": "https://github.com/kamilkisiela/angular-emojify/issues"
+    "url": "https://github.com/WellRightAlex/angular-emojify/issues"
   },
-  "homepage": "https://github.com/kamilkisiela/angular-emojify#readme",
+  "homepage": "https://github.com/WellRightAlex/angular-emojify#readme",
   "scripts": {
     "test": "jest",
     "clean": "rimraf build/",
