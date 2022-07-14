@@ -1,5 +1,5 @@
 {
-  "name": "@WellRightAlex/angular-emojify",
+  "name": "@wellrightalex/angular-emojify",
   "version": "13.0.0",
   "description": "Angular Pipe that replaces all :emoji: with the actual emoji",
   "main": "./build/bundles/emojify.umd.js",
